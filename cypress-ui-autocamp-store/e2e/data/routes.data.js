@@ -1,5 +1,7 @@
 module.exports = {
     cart: '/cart',
     product: '/inventory',
-    checkout: '/checkout'
+    checkout: '/checkout',
+    favorite: '/inventory', 
+
 };
